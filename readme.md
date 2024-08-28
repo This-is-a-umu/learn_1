@@ -8,7 +8,7 @@
 wuwuwu<br>
 yeyeye
 ---
-[学习网站](www.genshin.com "启动！")
+[学习网站](www.yuanshen.com "启动！")
 ```c
 int main()
 {
