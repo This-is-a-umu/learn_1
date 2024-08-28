@@ -2,7 +2,9 @@
 
 int main()
 {
-	printf("no");
+	int a=10;
+	a++;
+	printf("%d",a);
 	return 0;
 	
 
