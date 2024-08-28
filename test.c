@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("0v0");
+	printf("1v1");
 	return 0;
 
 }
